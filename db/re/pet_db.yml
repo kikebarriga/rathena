@@ -168,7 +168,6 @@ Body:
             Amount: 30
           - Item: Leaf_Lunatic_Card
             Amount: 1
-
   - Mob: PICKY
     TameItem: Earthworm_The_Dude
     EggItem: Picky_Egg
