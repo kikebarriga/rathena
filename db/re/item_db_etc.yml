@@ -22678,7 +22678,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6864
-    AegisName: Safe_to_19_Weapon_Certificate
+    AegisName: Guarantee_Weapon_19Up
     Name: Safe to 19 Weapon Certificate
     Type: Etc
     Buy: 10
@@ -22691,7 +22691,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6865
-    AegisName: Safe_to_19_Armor_Certificate
+    AegisName: Guarantee_Armor_19Up
     Name: Safe to 19 Armor Certificate
     Type: Etc
     Buy: 10
@@ -22752,7 +22752,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6870
-    AegisName: Safe_to_13_Weapon_Certificate
+    AegisName: Guarantee_Weapon_13Up
     Name: Safe to 13 Weapon Certificate
     Type: Etc
     Buy: 10
@@ -22765,7 +22765,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6871
-    AegisName: Safe_to_14_Weapon_Certificate
+    AegisName: Guarantee_Weapon_14Up
     Name: Safe to 14 Weapon Certificate
     Type: Etc
     Buy: 10
@@ -22778,7 +22778,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6872
-    AegisName: Safe_to_15_Weapon_Certificate
+    AegisName: Guarantee_Weapon_15Up
     Name: Safe to 15 Weapon Certificate
     Type: Etc
     Buy: 10
@@ -22791,7 +22791,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6873
-    AegisName: Safe_to_16_Weapon_Certificate
+    AegisName: Guarantee_Weapon_16Up
     Name: Safe to 16 Weapon Certificate
     Type: Etc
     Buy: 10
@@ -22804,7 +22804,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6874
-    AegisName: Safe_to_17_Weapon_Certificate
+    AegisName: Guarantee_Weapon_17Up
     Name: Safe to 17 Weapon Certificate
     Type: Etc
     Buy: 10
@@ -22817,7 +22817,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6875
-    AegisName: Safe_to_18_Weapon_Certificate
+    AegisName: Guarantee_Weapon_18Up
     Name: Safe to 18 Weapon Certificate
     Type: Etc
     Buy: 10
@@ -22830,7 +22830,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6876
-    AegisName: Safe_to_13_Armor_Certificate
+    AegisName: Guarantee_Armor_13Up
     Name: Safe to 13 Armor Certificate
     Type: Etc
     Buy: 10
@@ -22843,7 +22843,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6877
-    AegisName: Safe_to_14_Armor_Certificate
+    AegisName: Guarantee_Armor_14Up
     Name: Safe to 14 Armor Certificate
     Type: Etc
     Buy: 10
@@ -22856,7 +22856,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6878
-    AegisName: Safe_to_15_Armor_Certificate
+    AegisName: Guarantee_Armor_15Up
     Name: Safe to 15 Armor Certificate
     Type: Etc
     Buy: 10
@@ -22869,7 +22869,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6879
-    AegisName: Safe_to_16_Armor_Certificate
+    AegisName: Guarantee_Armor_16Up
     Name: Safe to 16 Armor Certificate
     Type: Etc
     Buy: 10
@@ -22882,7 +22882,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6880
-    AegisName: Safe_to_17_Armor_Certificate
+    AegisName: Guarantee_Armor_17Up
     Name: Safe to 17 Armor Certificate
     Type: Etc
     Buy: 10
@@ -22895,7 +22895,7 @@ Body:
       NoMail: true
       NoAuction: true
   - Id: 6881
-    AegisName: Safe_to_18_Armor_Certificate
+    AegisName: Guarantee_Armor_18Up
     Name: Safe to 18 Armor Certificate
     Type: Etc
     Buy: 10
